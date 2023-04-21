@@ -1,4 +1,4 @@
-## Olá! Eu sou hueltonsantos👋
+## Olá! Eu sou HueltonSantos👋
 
 - 🔭 Hoje Trabalho com front-end
 - 👨🏾‍💻 Automações de whatsapp
