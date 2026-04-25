@@ -1,35 +1,72 @@
-## Olá! Seja bem vindo(a) ao meu perfil :)👋
+## Olá! Seja bem vindo(a) ao meu perfil :) 👋
 
-- 🔭 Hoje Trabalho com front-end
-- 👨🏾‍💻 Automações de whatsapp
-- 🌱 Estudando Reactjs + Typescript
-- 👯 Procuro contribuir com alguns projetos
-- 🤔 Sou curioso, e gosto de estudar projetos abertos
-- 📫 Entrar em contato👨🏼‍💻 email: hueltonti@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Bora praticar: ...👨🏼‍💻👨🏼‍💻
+<a href="https://github.com/hueltonsantos">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=Desenvolvedor+Front-end;Foco+em+React+%2B+TypeScript;Construindo+interfaces+modernas" alt="Typing SVG" />
+</a>
 
+<table border="0">
+  <tr>
+    <td>
+      <p align="left">
+        - 🔭 Hoje Trabalho com front-end<br>
+        - 👨🏾‍💻 Automações de whatsapp<br>
+        - 🌱 Estudando <b>Reactjs + Typescript</b><br>
+        - 👯 Procuro contribuir com alguns projetos<br>
+        - 🤔 Sou curioso, e gosto de estudar projetos abertos<br>
+        - 📫 Contato: <a href="mailto:hueltonti@gmail.com">hueltonti@gmail.com</a><br>
+        - 😄 Pronomes: ele/dele<br>
+        - ⚡ Bora praticar!
+      </p>
+    </td>
+    <td align="center" width="200px">
+      <img src="https://avatars.githubusercontent.com/u/90808048?v=4" width="150px" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="hueltonsantos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="hueltonsantos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="hueltonsantos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="hueltonsantos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="hueltonsantos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="hueltonsantos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="hueltonsantos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="hueltonsantos-Compose" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg"/>
-  <img align="center" alt="hueltonsantos-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img align="right" alt="hueltonsantos-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/90808048?v=4">
-  <img align="center" alt="hueltonsantos-Nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-  <img align="center" alt="hueltonsantos-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cs,docker,nginx,postgres&theme=dark" alt="Minhas Skills" />
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas e Produtividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hueltonsantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hueltonsantos&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linguagens mais usadas"/>
 </div>
 
-##
+<br>
 
-<div> 
-<a href="https://www.instagram.com/huelton.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:hueltonti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/huelton-santosdvs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hueltonsantos&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/246dXV1EUvWX1RSN2U/giphy.gif" width="100px" alt="Planta crescendo" />
+</p>
+
+---
+
+### 🤝 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/huelton-santosdvs/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square">
+  </a> 
+  <a href="https://www.instagram.com/huelton.santos/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square">
+  </a>
+  <a href="mailto:hueltonti@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square">
+  </a>
+</p>
